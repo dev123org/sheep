@@ -1,0 +1,5 @@
+{
+  "name": "羊了个羊 (Sheep a Sheep)",
+  "description": "A multi-level tile-matching puzzle game with AI-generated video backgrounds that reveal as you clear tiles.",
+  "requestFramePermissions": []
+}
